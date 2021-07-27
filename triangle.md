@@ -11,7 +11,7 @@ do {
 } while ( triangle.length <= 7 ) ;
 ```
 
-Code shout output:
+Code should output:
 
 ``` js
 #
