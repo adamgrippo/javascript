@@ -2,7 +2,7 @@
 title: FizzBuzz Exercise
 ---
 
-Objective: 
+Objective: Output numbers from 1-100.  However if multiple of 3 output Fizz, if multiple of 5 output Buzz, or if multiple of 3 and 5 output FizzBuzz.
 
 ``` js
 for ( let x = 1 ; x <= 100 ; x++ ) {
@@ -15,4 +15,4 @@ for ( let x = 1 ; x <= 100 ; x++ ) {
 }
 ```
 
-Output as expected.  What do you think?
+How did I do? What do you think?
