@@ -21,3 +21,8 @@ let min = ( a, b ) => {
     return b ;
 } ;
 ```
+
+#### TypeScript Code
+``` ts
+let min = ( a : number, b : number ) => { return a < b ? a : b ; } ;
+```
