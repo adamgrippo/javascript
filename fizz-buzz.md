@@ -1,8 +1,7 @@
----
-title: FizzBuzz Exercise
----
+# Objective: FizzBuzz
+### Write a program that uses console.log to print all numbers from 1 to 100.  However if multiple of 3 output Fizz, if multiple of 5 output Buzz, or if multiple of 3 and 5 output FizzBuzz.
 
-Objective: Output numbers from 1-100.  However if multiple of 3 output Fizz, if multiple of 5 output Buzz, or if multiple of 3 and 5 output FizzBuzz.
+### My Code
 
 ``` js
 for ( let x = 1 ; x <= 100 ; x++ ) {
@@ -14,5 +13,3 @@ for ( let x = 1 ; x <= 100 ; x++ ) {
 	} else console.log ( x + "\n" ) ;
 }
 ```
-
-How did I do? What do you think?
